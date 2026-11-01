@@ -4,9 +4,9 @@ The classic Snake game in Python, built with Pygame, with Tkinter for the dialog
 
 ## Run it
 
-The code is in the file named `Snake game`. Install Pygame, then run it with Python:
+Install Pygame, then run it with Python:
 
 ```bash
 pip install pygame
-python "Snake game"
+python snake_game.py
 ```
